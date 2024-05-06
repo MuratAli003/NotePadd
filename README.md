@@ -5,4 +5,4 @@
 
   <h2>Uygulama Önizleme</h2>
   
-  ![NotePadd](https://github.com/MuratAli003/NotePadd/assets/120710970/1d3f2da9-fc61-4cf3-ab9b-ac816932a64b)
+![Notepadd1](https://github.com/MuratAli003/NotePadd/assets/120710970/3973b59a-db02-4799-bee2-87e6251a8ce5)
